@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Satish Kumar Verma</h1>
 
 <!--
 **satishrajjayker-droid/satishrajjayker-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
